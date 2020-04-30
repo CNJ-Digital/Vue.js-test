@@ -14,7 +14,7 @@ The estimated time frame for completion of this test is 4-6 hours. Please keep t
 Figma link: https://www.figma.com/file/yc3XQiFIXrYAaNDsUXemBN/Dropdown-Test-Design?node-id=0%3A1
 
 ## Goal
-A Pull request to this repository with a working Vue.js component (it doesn't have to be a reusable package) and a sample use case. Documentation and tests are recommended. The component must look like the given design files ([Link](https://www.figma.com/file/yc3XQiFIXrYAaNDsUXemBN/Dropdown-Test-Design?node-id=0%3A1)) and be responsive.
+A public repository link with a working Vue.js component (it doesn't have to be a reusable package) and a sample use case. Documentation and tests are recommended. The component must look like the given design files ([Link](https://www.figma.com/file/yc3XQiFIXrYAaNDsUXemBN/Dropdown-Test-Design?node-id=0%3A1)) and be responsive.
 
 ## We are looking for:
  - Maintainable and testable code
