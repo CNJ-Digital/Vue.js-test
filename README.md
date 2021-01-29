@@ -4,7 +4,7 @@ This test is a sample of the day to day requirements at CNJ Digital.
 The estimated time frame for completion of this test is 4-6 hours. Please keep track of the time spent as you will be probably asked about it. If you have any questions please don't hesitate to ask anyone involved in your interview process.
 
 ## Requirements
- - Use the latest stable version of Vue.js
+ - Use the latest stable version of Vue.js (Vue.js 2 solutions are also accepted)
  - The component has to be built from scratch
  - It has to look like the provided design file
  - It should be reusable, documented and tested
